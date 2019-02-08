@@ -1,0 +1,22 @@
+{
+  "name": "calicode-api",
+  "version": "1.0.0",
+  "description": "The backend API for the Calicode community and project storage. To run instance use:\r ```bash\r git clone https://github.com/ScReGr/calicode-api.git\r cd calicode-api\r npm install\r npm test\r ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScReGr/calicode-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScReGr/calicode-api/issues"
+  },
+  "homepage": "https://github.com/ScReGr/calicode-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
